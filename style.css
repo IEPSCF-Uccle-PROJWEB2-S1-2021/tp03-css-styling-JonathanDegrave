@@ -44,6 +44,9 @@ header, footer {
 
 /* ECRIVEZ VOTRE CODE CI-DESSOUS */
 
+* {
+  font-family: 'David Libre', serif;
+}
 header {
   font-size: 32px;
   text-align: center;
@@ -88,5 +91,10 @@ a:focus {
   text-decoration: none;
   outline: none;
 }
+
+h1, h2 {
+  font-family: 'Secular One', sans-serif;
+}
+
 
 
